@@ -51,6 +51,7 @@ button:disabled {
 
 .float {
   float: left;
+  margin-right: 10px;
 }
 
 .flex {
