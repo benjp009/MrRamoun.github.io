@@ -49,6 +49,10 @@ button:disabled {
   max-width: 2rem;
 }
 
+.float {
+  float: left;
+}
+
 .flex {
   display: flex;
 }
